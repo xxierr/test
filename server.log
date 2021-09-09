@@ -1,0 +1,1 @@
+2021-09-05 00:02:03:434[SLOG INIT]current config of SLOG:log_level=1,log_file=/sdcard/server.log,max_log_size=80(M),max_log_count=20,flush_size=2097152,flush_interval=5,config_update_interval=60.
