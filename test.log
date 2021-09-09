@@ -1,0 +1,16 @@
+--------- beginning of main
+--------- beginning of system
+--------- beginning of crash
+09-05 00:47:27.090 I/System.out( 3292): [roylkchen] Create proxy class:ArticleQuoteTag consumed:6
+09-05 00:47:27.097 I/System.out( 3292): [roylkchen] Create proxy class:ArticleFuncTag consumed:1
+09-05 00:47:27.099 I/System.out( 3292): [roylkchen] Create proxy class:ChapterFuncTag consumed:2
+09-05 00:47:27.100 I/System.out( 3292): [roylkchen] Create proxy class:ComicsTag consumed:1
+09-05 00:47:27.101 I/System.out( 3292): [roylkchen] Create proxy class:MPVoiceTag consumed:1
+09-05 00:47:27.102 I/System.out( 3292): [roylkchen] Create proxy class:IFrameTag consumed:1
+09-05 00:47:27.103 I/System.out( 3292): [roylkchen] Create proxy class:QRVideoTag consumed:1
+09-05 00:47:27.104 I/System.out( 3292): [roylkchen] Create proxy class:HrTag consumed:0
+09-05 00:47:27.106 I/System.out( 3292): [roylkchen] Create proxy class:QQMusicTag consumed:1
+09-05 00:47:27.107 I/System.out( 3292): [roylkchen] Create proxy class:MPImageTag consumed:1
+09-05 00:47:27.108 I/System.out( 3292): [roylkchen] Create proxy class:AvatarTag consumed:1
+09-05 00:47:27.114 I/System.out( 3292): [roylkchen] Create proxy class:ShareBookPlugin consumed:4
+09-05 00:47:27.123 I/System.out( 3292): [roylkchen] Create proxy class:CorrectionPlugin consumed:9
